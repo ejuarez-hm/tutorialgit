@@ -5,10 +5,12 @@ public class Hola{
 		Hola objeto = new Hola();
 		String hola=objeto.holaPersonalizado();
 		System.out.println(hola);
+		
 	}
 	public String mensaje(){
 		System.out.println("Función mensaje");
 		System.out.println("Función mensaje 2"); 
+		System.out.println("Funcion mensaje en metodo mynor de pc esteban");
 		return "Hola";
 	}
 
@@ -18,6 +20,11 @@ public class Hola{
 		System.out.println("Hola desde suma");
 		System.out.println("Hola desde suma dos veces");
 		return a+b;
+	}
+	
+	public boolean cambio_ej(){
+		boolean a=true;
+		return a;
 	}
 
 	public int sumaJ(){

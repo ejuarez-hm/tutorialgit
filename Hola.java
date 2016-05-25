@@ -11,7 +11,12 @@ public class Hola{
 		System.out.println("Función mensaje 2"); 
 		return "Hola";
 	}
-
+	
+	public String mensaje2(){
+		System.out.println("Función mensaje2");
+		return "Hola2";
+	}
+	
 	public int suma(){
 		int a=1;
 		int b=2;

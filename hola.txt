@@ -1,13 +1,31 @@
-<<<<<<< HEAD
+
 PruebaTEST
-=======
+
 Cambios desde esteban pc
 
 
-<<<<<<< HEAD
+
+
 Tercera linea
->>>>>>> 538589af10a94ee2420330ec53c145a5c8e55709
-=======
+
+
 Agregando una tercera linea diferente a la anterio
 y una cuarta linea
->>>>>>> 5036cae895b42e17182ff118649fd3f23d75f88e
+
+
+Tercera linea
+
+Agregando una linea con conflicto
+
+Septima linea
+
+Conflicto pc esteban
+
+Agregando una linea con conflicto
+
+
+Agregando una tercera linea diferente a la anterio
+y una cuarta linea
+
+Agregado por Mynor
+

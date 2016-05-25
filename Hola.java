@@ -5,7 +5,8 @@ public class Hola{
 	}
 	
 	public int suma(){
-		int p1 = 0;
+		int p0 = 0;
+		int p1 = 1;
 		return 1+1;
 	}
 }

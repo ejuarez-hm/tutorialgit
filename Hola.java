@@ -5,6 +5,7 @@ public class Hola{
 		Hola objeto = new Hola();
 		String hola=objeto.holaPersonalizado();
 		System.out.println(hola);
+		System.out.println(objeto.holaATodos());
 	}
 	public String mensaje(){
 		System.out.println("Función mensaje");

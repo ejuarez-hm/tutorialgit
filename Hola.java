@@ -8,6 +8,7 @@ public class Hola{
 		int a=1;
 		int b=2;
 		System.out.println("Hola desde suma");
+		System.out.println("Hola desde suma dos veces");
 		return a+b;
 	}
 }

@@ -8,6 +8,7 @@ public class Hola{
 		int a;
 		a=15;
 		System.out.println("Linea agregada por esteban");
+		b=15;
 		return a;
 	}
 }

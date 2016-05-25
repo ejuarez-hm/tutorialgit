@@ -45,4 +45,10 @@ public class Hola{
 		System.out.println("segunda linea ");
 		return "hola cande!";
 	}
+	public String holaPersonalizadoDos(){
+		System.out.println("nueva linea");
+		System.out.println("segunda linea ");
+		System.out.println("tercera linea ");
+		return "hola cande!";
+	}
 }

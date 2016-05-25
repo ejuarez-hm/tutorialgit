@@ -14,6 +14,7 @@ public class Hola{
 	
 	public String mensaje2(){
 		System.out.println("Función mensaje2");
+		System.out.println("Función mensaje2 linea 2");
 		return "Hola2";
 	}
 	

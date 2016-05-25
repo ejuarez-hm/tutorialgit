@@ -30,6 +30,7 @@ public class Hola{
 		System.out.println("***TEST****");
 		System.out.println("LINEA 2....");
 		System.out.println("LINEA 3....");
+		System.out.println("LINEA 4....");
 	}
 	public int funcion_ej(){
 		int a;

@@ -8,7 +8,7 @@ public class Hola{
 	}
 	public String mensaje(){
 		System.out.println("Función mensaje");
-		System.out.println("Función mensaje 2"); 
+		System.out.println("Función mensaje 2");
 		return "Hola";
 	}
 
@@ -25,7 +25,7 @@ public class Hola{
 		int p1 = 1;
 		return 1+1;
 	}
-	
+
 	public int funcion_ej(){
 		int a;
 		a=15;
@@ -33,10 +33,15 @@ public class Hola{
 		int b=15;
 		return a;
 	}
-	
+
 	public String holaPersonalizado(){
 		System.out.println("nueva linea");
 		System.out.println("segunda linea ");
 		return "hola cande!";
 	}
+
+	public void holaATodos(){
+		System.out.println("Hola a todos los miembros del curso de Git");
+	}
+
 }

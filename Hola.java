@@ -2,7 +2,9 @@ public class Hola{
 
 	public static void main(String args[]){
 		System.out.println("Hola mundo");
-		
+		Hola objeto = new Hola();
+		String hola=objeto.holaPersonalizado();
+		System.out.println(hola);
 	}
 	public String mensaje(){
 		System.out.println("Función mensaje");
@@ -28,7 +30,13 @@ public class Hola{
 		int a;
 		a=15;
 		System.out.println("Linea agregada por esteban");
-		b=15;
+		int b=15;
 		return a;
+	}
+	
+	public String holaPersonalizado(){
+		System.out.println("nueva linea");
+		System.out.println("segunda linea ");
+		return "hola cande!";
 	}
 }

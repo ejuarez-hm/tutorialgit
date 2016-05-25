@@ -5,12 +5,18 @@ public class Hola{
 		Hola objeto = new Hola();
 		String hola=objeto.holaPersonalizado();
 		System.out.println(hola);
+		System.out.println(objeto.holaATodos());
 		
 	}
 	public String mensaje(){
 		System.out.println("Función mensaje");
 		System.out.println("Función mensaje 2"); 
 		System.out.println("Funcion mensaje en metodo mynor de pc esteban");
+
+	}
+	public String mensaje(){
+		System.out.println("Función mensaje");
+		System.out.println("Función mensaje 2");
 		return "Hola";
 	}
 
@@ -32,6 +38,7 @@ public class Hola{
 		int p1 = 1;
 		return 1+1;
 	}
+
 	
 	public void saltos(){
 		System.out.println("***TEST****");
@@ -46,16 +53,24 @@ public class Hola{
 		int b=15;
 		return a;
 	}
-	
+
 	public String holaPersonalizado(){
 		System.out.println("nueva linea");
 		System.out.println("segunda linea ");
 		return "hola cande!";
 	}
+
 	public String holaPersonalizadoDos(){
 		System.out.println("nueva linea");
 		System.out.println("segunda linea ");
 		System.out.println("tercera linea ");
 		return "hola cande!";
 	}
+
+
+	public void holaATodos(){
+		System.out.println("Hola a todos los miembros del curso de Git");
+	}
+
+
 }

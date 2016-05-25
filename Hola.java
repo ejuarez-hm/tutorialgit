@@ -5,16 +5,16 @@ public class Hola{
 		Hola objeto = new Hola();
 		String hola=objeto.holaPersonalizado();
 		System.out.println(hola);
-		System.out.println(objeto.holaATodos());
+		objeto.holaATodos();
 		
 	}
-	public String mensaje(){
+	public void mensaje(){
 		System.out.println("Función mensaje");
 		System.out.println("Función mensaje 2"); 
 		System.out.println("Funcion mensaje en metodo mynor de pc esteban");
-
+		
 	}
-	public String mensaje(){
+	public String mensaje_cda(){
 		System.out.println("Función mensaje");
 		System.out.println("Función mensaje 2");
 		return "Hola";

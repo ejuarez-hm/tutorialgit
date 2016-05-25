@@ -10,6 +10,7 @@ public class Hola{
 	public String mensaje(){
 		System.out.println("Función mensaje");
 		System.out.println("Función mensaje 2"); 
+		System.out.println("Funcion mensaje en metodo mynor de pc esteban");
 		return "Hola";
 	}
 

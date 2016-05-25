@@ -29,6 +29,7 @@ public class Hola{
 	public void saltos(){
 		System.out.println("***TEST****");
 		System.out.println("LINEA 2....");
+		System.out.println("LINEA 3....");
 	}
 	public int funcion_ej(){
 		int a;

@@ -23,4 +23,12 @@ public class Hola{
 		int p1 = 1;
 		return 1+1;
 	}
+	
+	public int funcion_ej(){
+		int a;
+		a=15;
+		System.out.println("Linea agregada por esteban");
+		b=15;
+		return a;
+	}
 }

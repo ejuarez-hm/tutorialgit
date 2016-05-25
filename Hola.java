@@ -7,6 +7,7 @@ public class Hola{
 	public int funcion_ej(){
 		int a;
 		a=15;
+		System.out.println("Linea agregada por esteban");
 		return a;
 	}
 }

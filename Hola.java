@@ -8,6 +8,7 @@ public class Hola{
 	
 	public String holaPersonalizado(){
 		System.out.println("nueva linea");
+		System.out.println("segunda linea ");
 		return "hola cande!";
 	}
 }

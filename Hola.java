@@ -5,6 +5,8 @@ public class Hola{
 		
 	}
 	public String mensaje(){
+		System.out.println("Función mensaje");
+		System.out.println("Función mensaje 2"); 
 		return "Hola";
 	}
 }

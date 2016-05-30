@@ -30,7 +30,7 @@ public class Adios{
 	}
 	public void imprime(){
 		
-		System.out.println("Maquina esteban");
+		System.out.println("Maquina hermanos maristas");
 
 	}
 }

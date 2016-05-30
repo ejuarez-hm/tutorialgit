@@ -1,11 +1,12 @@
 /**
- * Version de lanzamiento con gitflow
+ * Version de lanzamiento con gitflow nuevas versiones 
  */
 public class Adios{
 	public static void main(String args[]){
 		System.out.println("Adios");
 		Adios adiosObj = new Adios();
 		System.out.println("Estado: "+adiosObj.boleano());
+		System.out.println("Resultado: "+adiosObj.multiplicar());
 		adiosObj.imprime();
 	}
 	
@@ -35,7 +36,11 @@ public class Adios{
 	}
 	public void imprime(){
 		
-		System.out.println("Maquina esteban");
+		System.out.println("Maquina hermanos maristas");
 
+	}
+	
+	public int multiplicar(){
+		return 2*2;
 	}
 }

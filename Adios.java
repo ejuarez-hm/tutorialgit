@@ -1,5 +1,5 @@
 /**
- * Version de lanzamiento con gitflow
+ * Version de lanzamiento con gitflow nuevas versiones 
  */
 public class Adios{
 	public static void main(String args[]){

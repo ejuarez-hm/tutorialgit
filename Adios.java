@@ -7,4 +7,8 @@ public class Adios{
 	public boolean boleano(){
 		return true;
 	}
+
+	public String generarSaludo(String nombre){
+		return "Hola ".concat(nombre);
+	}
 }

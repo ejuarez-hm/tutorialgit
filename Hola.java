@@ -1,6 +1,10 @@
+/**
+ * Documentando cambios  
+ */
 public class Hola{
 
 	public static void main(String args[]){
+		System.out.println("Agregando otro saludo en un archivo existente");
 		System.out.println("Hola mundo");
 		Hola objeto = new Hola();
 		String hola=objeto.holaPersonalizado();

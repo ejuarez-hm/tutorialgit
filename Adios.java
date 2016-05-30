@@ -2,6 +2,7 @@ public class Adios{
 	public static void main(String args[]){
 		System.out.println("Adios");
 		System.out.println("Estado: "+boleano());
+		imprime();
 	}
 	
 	public boolean boleano(){
@@ -22,5 +23,10 @@ public class Adios{
 	
 	public void adiosMundo(){
 		System.out.println("Adios mundo ");
+	}
+	public void imprime(){
+		
+		System.out.println("Maquina esteban");
+
 	}
 }

@@ -4,6 +4,7 @@ public class HolaJuan{
 		System.out.println(b.bienevenida());
 		System.out.println(b.palabras());
 		System.out.println(b.despedida());
+		System.out.println("Hola amigo Juan");
 	}
 	
 	public String bienevenida(){

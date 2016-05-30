@@ -11,6 +11,7 @@ public class HolaJuan{
 	}
 	public String palabras(){
 		System.out.println("mas palabras");
+		System.out.println("Otras palabras");
 		return "GITFLOW";
 	}
 	public String despedida(){

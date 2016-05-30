@@ -5,6 +5,6 @@ public class Mynor2{
 		System.out.println("Suma: "+obj.sumar());
 	}
 	public int sumar(){
-		return 2+2;
+		return 3+2;
 	}
 }

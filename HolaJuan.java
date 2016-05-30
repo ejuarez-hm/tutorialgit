@@ -10,6 +10,7 @@ public class HolaJuan{
 		return "Bienvenido";
 	}
 	public String palabras(){
+		System.out.println("mas palabras");
 		return "GITFLOW";
 	}
 	public String despedida(){

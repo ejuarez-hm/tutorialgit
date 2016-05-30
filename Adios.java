@@ -1,3 +1,6 @@
+/**
+ * Version de lanzamiento con gitflow
+ */
 public class Adios{
 	public static void main(String args[]){
 		System.out.println("Adios");
@@ -18,7 +21,7 @@ public class Adios{
 		return "Hola ".concat(nombre);
 	}
 	
-	public void holaMundo(){
+		public void holaMundo(){
 		System.out.println("Hola mundo ");
 	}
 	

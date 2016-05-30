@@ -38,8 +38,13 @@ public class Adios{
 		System.out.println("Maquina hermanos maristas");
 
 	}
+<<<<<<< HEAD
+	public void EJMetodo{
+		System.out.println("cambio");
+=======
 	
 	public int multiplicar(){
 		return 2*2;
+>>>>>>> 6c7fe0f39e4b624c8dc53749302a0f798709800a
 	}
 }

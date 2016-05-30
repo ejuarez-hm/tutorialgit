@@ -4,6 +4,10 @@ public class Adios{
 	}
 	
 	public void holaMundo(){
-		System.out.println("Hola mundo :3");
+		System.out.println("Hola mundo ");
+	}
+	
+	public void adiosMundo(){
+		System.out.println("Adios mundo ");
 	}
 }

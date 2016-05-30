@@ -33,4 +33,7 @@ public class Adios{
 		System.out.println("Maquina esteban");
 
 	}
+	public void EJMetodo{
+		System.out.println("cambio");
+	}
 }

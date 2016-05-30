@@ -21,7 +21,6 @@ public class Adios{
 		System.out.println("Este es un mensaje 2.");
 	}
 	
-	
 	public String generarSaludo(String nombre){
 		return "Hola ".concat(nombre);
 	}

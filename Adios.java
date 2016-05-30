@@ -6,6 +6,7 @@ public class Adios{
 		System.out.println("Adios");
 		Adios adiosObj = new Adios();
 		System.out.println("Estado: "+adiosObj.boleano());
+		System.out.println("Resultado: "+adiosObj.multiplicar());
 		adiosObj.imprime();
 	}
 	
@@ -32,5 +33,9 @@ public class Adios{
 		
 		System.out.println("Maquina esteban");
 
+	}
+	
+	public int multiplicar(){
+		return 2*2;
 	}
 }

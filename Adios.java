@@ -1,15 +1,16 @@
 public class Adios{
 	public static void main(String args[]){
 		System.out.println("Adios");
-		System.out.println("Estado: "+boleano());
-		imprime();
+		Adios adiosObj = new Adios();
+		System.out.println("Estado: "+adiosObj.boleano());
+		adiosObj.imprime();
 	}
 	
 	public boolean boleano(){
 		return true;
 	}
 
-	public String mensaje(){
+	public void  mensaje(){
 		System.out.println("Este es un mensaje.");
 	}
 

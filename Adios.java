@@ -16,7 +16,12 @@ public class Adios{
 	public void  mensaje(){
 		System.out.println("Este es un mensaje.");
 	}
-
+	
+	public void  mensaje2(){
+		System.out.println("Este es un mensaje 2.");
+	}
+	
+	
 	public String generarSaludo(String nombre){
 		return "Hola ".concat(nombre);
 	}
